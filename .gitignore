@@ -3,6 +3,10 @@ __pycache__
 *~
 libkrunfw.so
 kernel.c
+initrd.c
+qboot.c
 vmlinux
 /tarballs
 /linux-*
+libkrunfw-sev.so.3.8.1
+/utils/krunfw_measurement
